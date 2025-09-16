@@ -3,9 +3,9 @@
 
 ### ป้อนข้อมูลนักศึกษา
 
-รหัส นศ.:
+รหัส นศ.:670610710
 
-ชื่อ-สกุล :
+ชื่อ-สกุล :นนทภัทร ไชยา
 
 ---
 
@@ -40,7 +40,7 @@ pnpm install @mantine/core @mantine/hooks
 ```
 ---
 
-🎨 UI Templates
+🎨 UI Tmplates
 
 Explore pre-built UI layouts and components from Mantine:
 
